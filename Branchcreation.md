@@ -9,5 +9,4 @@
   3. Push the branch to Remote using:
      ```git
        git push -u origin <new_branch>
-    ```
     

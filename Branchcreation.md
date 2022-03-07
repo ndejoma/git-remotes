@@ -10,3 +10,6 @@
      ```git
        git push -u origin <new_branch>
     
+4. To set the upstream manually use the following command
+  ```git
+     git remote add upstream <remote-upstream-url>

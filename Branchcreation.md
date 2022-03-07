@@ -13,3 +13,7 @@
 4. To set the upstream manually use the following command
   ```git
      git remote add upstream <remote-upstream-url>
+5. You can unstage  fill using, by removing the from the index area, instea
+   ```git
+          git reset HEAD -- <file_name>
+   ```
